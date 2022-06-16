@@ -1,0 +1,4 @@
+1 11
+
+The total sum is 12
+The total number of points is 2

@@ -1,0 +1,6 @@
+Resistors	8	2.29	1.99
+Capacitors	12	1.19	0.99
+Inductors	20	4.99	3.99
+Timers	11	2.99	1.99
+LEDs	29	1.29	0.89
+ICs	5	10.79	9.99
