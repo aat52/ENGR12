@@ -1,0 +1,11 @@
+function xy_plots
+
+Title1=input('Input Title','s')
+
+subplot(2,2,1)
+
+scatter(x,y)
+
+title(Title1)
+
+subplot(2,
